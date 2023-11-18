@@ -1,2 +1,5 @@
-# Web-Scraping-and-NLP-Text-Analysis
- This project merges web scraping and NLP in Python for insightful article extraction. It organizes data from URLs in an input XLSX file, computing metrics like POSITIVE and NEGATIVE SCORES. The results are presented in a structured output XLSX file, showcasing practical applications for efficient data and analysis management.
+This project seamlessly integrates web scraping and Natural Language Processing (NLP) to extract insights from online articles. Utilizing Python and libraries like BeautifulSoup and Selenium, it meticulously captures and organizes textual data, including article titles and texts. The URLs for article extraction are sourced from an input XLSX file.
+
+The NLP-driven text analysis phase computes key metrics, offering nuanced insights into sentiment, complexity, and structure. The results, including POSITIVE SCORE, NEGATIVE SCORE, and more, are presented in a structured format aligned with the specified output structure. These scores are stored in an output XLSX file corresponding to their respective article links.
+
+This project serves as a succinct showcase of web scraping and NLP's collaborative potential, providing practical applications in real-world scenarios. The input-output flow is streamlined through XLSX files, ensuring efficiency and ease of use in managing article data and analysis results.
